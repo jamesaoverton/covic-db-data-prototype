@@ -1,0 +1,4 @@
+ab_id	provider_id	host	isotype
+ab:1	org:1	ONTIE:0000001	IgG1
+ab:2	org:1	NCBITaxon:10090	IgG1
+ab:3	org:2	NCBITaxon:10090	IgG1
