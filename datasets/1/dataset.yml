@@ -1,9 +1,6 @@
 Dataset ID: ds:1
 Dataset name: First test dataset
 Creator: user:1
-Epitope type: linear peptide
-Epitope description: SPDVDLGDISGINAS
-Epitope antigen name: Spike glycoprotein precursor
 Host: ONTIE:0000001
 Assay type: OBI:0001643
 Qualitative measure: assays.tsv:B
