@@ -1,7 +1,0 @@
-Dataset ID: ds:1
-Dataset name: First test dataset
-Creator: user:1
-Host: ONTIE:0000001
-Assay type: OBI:0001643
-Qualitative measure: assays.tsv:B
-Antibody: assays.tsv:A
